@@ -1,0 +1,16 @@
+{
+	"name": "ecomm-app-graphql",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"apollo-server": "^3.13.0",
+		"graphql": "^16.10.0"
+	}
+}
